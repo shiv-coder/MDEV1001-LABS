@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "LAB2",
+            "database": "${workspaceFolder:MDEV-1001-LAB2}/LAB2"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
