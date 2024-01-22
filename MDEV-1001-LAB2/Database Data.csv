@@ -1,0 +1,55 @@
+movieID,title,studio,genres,directors,writers,actors,year,length,shortDescription,mpaRating,criticsRating
+1,Star Wars: Episode V - The Empire Strikes Back,Twentieth Century Fox,"Action, Adventure, Fantasty",Irvin Kershner,"Leigh Brackett, 
+Lawrence Kasdan,
+George Lucas","Mark Hamill,
+Harrison Ford,
+Carrie Fisher",1980,124,"After the Rebels are overpowered by the Empire, Luke Skywalker begins his Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",PG,8.7
+2,The Matrix,Warner Bros. Pictures,"Action,
+Sci-Fi","Lana Wachowski,
+Lilly Wachowski","Lana Wachowski,
+Lilly Wachowski","Keanu Reaves,
+Laurence Fishburne,
+Carrie-Anne Moss",1999,136,"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",R,8.7
+3,Star Wars: Episode IV - A New Hope,Twentieth Century Fox,"Action, Adventure, Fantasty",George Lucas,George Lucas,"Mark Hamill,
+Harrison Ford,
+Carrie Fisher",1977,121,"Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",PG,8.6
+4,Back to the Future,Universal Pictures,"Adventure,
+Comedy,
+Sci-Fi",Robert Zemeckis,"Robet Zemeckis,
+Bob Gale","Michael J. Fox,
+Christopher Lloyd,
+Lea Thompson",1985,116,"Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",PG,8.5
+5,Alien,Twentieth Century Fox,"Horror,
+Sci-Fi",Ridley Scott,"Dan O'Bannon,
+Ronald Shusett","Sigourney Weaver,
+Tom Skerritt,
+John Hurt",1979,117,The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.,R,8.5
+6,Raiders of th Lost Ark,Paramount Pictures,"Action, Adventure",Steven Spielberg,"Lawrence Kasdan, 
+George Lucas, 
+Philip Kaufman","Harrison Ford, 
+Karen Allen,
+Paul Freeman",1981,115,"In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",PG,8.4
+7,Blade Runner,Warner Bros. Pictures,"Action, Drama,
+Sci-Fi",Ridley Scott,"Hampton Fancher, 
+David Webb Peoples, 
+Philip K. Dick","Harrison Ford, 
+Rutger Hauer, 
+Sean Young",1982,117,A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.,R,8.1
+8,The Terminator,Orion Pictures,"Action,
+Sci-Fi",James Cameron,"James Cameron,
+Gale Anne Hurd,
+William Wisher","Arnold Schwarzenegger, 
+Linda Hamilton, 
+Michael Biegn",1984,107,"A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",R,8.1
+9,The Princess Bride,Twentieth Century Fox,"Adventure,
+Comedy,
+Family",Rob Reiner,William Goldman,"Cary Elwes,
+Mandy Patinkin,
+Robin Wright",1987,98,"A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",PG,8.0
+10,Star Trek II: The Wrath of Khan,Paramount Pictures,"Action,
+Adventure,
+Sci-Fi",Nicholas Meyer,"Gene Roddenberry,
+Jack B. Sowards,
+Harve Bennett","William Shatner,
+Leonard Nimoy,
+DeForest Kelley",1982,113,"With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.",PG,7.7
