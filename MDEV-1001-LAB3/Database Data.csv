@@ -1,4 +1,4 @@
-movieID,title,studio,genres,directors,writers,actors,year,length,shortDescription,mpaRating,criticsRating
+﻿movieID,title,studio,genres,directors,writers,actors,year,length,shortDescription,mpaRating,criticsRating
 1,Star Wars: Episode V - The Empire Strikes Back,Twentieth Century Fox,"Action, Adventure, Fantasty",Irvin Kershner,"Leigh Brackett, 
 Lawrence Kasdan,
 George Lucas","Mark Hamill,
