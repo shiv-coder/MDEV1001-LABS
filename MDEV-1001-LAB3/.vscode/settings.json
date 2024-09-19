@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "connLab3db",
+            "database": "${workspaceFolder:MDEV-1001-LAB3}/Lab3db"
+        }
+    ]
+}
